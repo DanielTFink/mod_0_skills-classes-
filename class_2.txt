@@ -1,0 +1,13 @@
+Class: Fast Food
+
+Attributes:
+total_capacity (integer)
+current_capacity (integer)
+hours_of_operation (integer/float)
+food_served (string/array)
+
+Methods:
+add_capacity (increases the total_capacity attribute)
+open_patio (increases current_capacity attribute)
+open_24 hours (increases the hours_of_operation attribute)
+open_salad_bar (modifies the food_served attribute)
