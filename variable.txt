@@ -1,0 +1,9 @@
+food = "burger"
+is_delicious = true
+food = "steak"
+num2 = 20
+num7 = 100
+quotient = num7 / num2
+songs = ["rap", "country", "blues"]
+songs.shift # => "rap"
+food.size # =>
