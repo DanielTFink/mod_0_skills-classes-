@@ -6,8 +6,8 @@ number_of_chefs (integer)
 types_of_food_prepared (string/array)
 size_of_kitchen (integer/float)
 
-Methods:
+Methods :
 is_closed (modifies the is_open attribute)
 hire_staff (modifies the number_of_chefs attribute)
 downsize_menu (modifies the types_of_food_prepared attribute)
-expand_building (modifies the size_of_kitchen attribute) 
+expand_building (modifies the size_of_kitchen attribute)
