@@ -1,0 +1,13 @@
+Object: Steakhouse Kitchen
+
+Attributes:
+is_open: true
+number_of_chefs: 4
+types_of_food_prepared: "steak"
+size_of_kitchen: 500
+
+Methods:
+close_kitchen: is_open = false
+hire_more_chefs: 4 + 1 = 5
+offer_different_food: ["steak", "fish"]
+expand_building: 500 + 500 = 1000 
