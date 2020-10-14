@@ -1,0 +1,13 @@
+Object: Roberts Frozen Custard
+
+Attributes:
+total_capacity: 50
+current_capacity: 25
+hours_of_operation: 10
+food_served: "burgers"
+
+Methods:
+calculate_percent_full: 25 / 50 = .5
+increase_hours_of_operation: 10 + 12 = 24
+change_food: ["burgers", "fish_fry"]
+increase_size: 50 + 25 = 75
