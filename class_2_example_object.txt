@@ -1,4 +1,4 @@
-Object: Roberts Frozen Custard
+Object: RobertsFrozenCustard
 
 Attributes:
 total_capacity: 50
